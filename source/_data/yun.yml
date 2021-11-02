@@ -58,5 +58,5 @@ timezone: ''
 deploy:
   type: git
   repo: https://github.com/SteveNotA/stevenota.github.io
-  branch: master # 默认使用 master 分支
+  branch: hexo # 默认使用 master 分支
   message: Update data # 你可以自定义此次部署更新的说明
