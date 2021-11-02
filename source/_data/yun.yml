@@ -55,8 +55,3 @@ keywords:
 author: 快乐网八
 language: zh-cn
 timezone: ''
-deploy:
-  type: git
-  repo: https://github.com/SteveNotA/stevenota.github.io
-  branch: hexo # 默认使用 master 分支
-  message: Update data # 你可以自定义此次部署更新的说明
