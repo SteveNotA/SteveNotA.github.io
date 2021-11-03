@@ -9,7 +9,7 @@ banner:
   border: true
 bg_image:
   enable: true
-  url: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0-blur-30px.jpg # recomend image related to your mode
+  url: /images/R-C(1).jpg # recomend image related to your mode
   dark: /images/456.png
   # blur: 30px
   opacity: 1
