@@ -48,10 +48,33 @@ pages:
     url: https://pc.woozooo.com/mydisk.php
     icon: icon-genderless-line
     color: dodgerblue
-title: 总和
+title: 官网
 subtitle: '网盘账号：15652054399 密码：gadxklwb'
 description: ''
 keywords:
 author: 快乐网八
 language: zh-cn
 timezone: ''
+reward:
+  enable: true
+  icon: icon-hand-coin-line
+  comment: 对我的工作满意吗？考虑小小的打赏一下嘛？
+  # url: https://github.com/YunYouJun/yunyoujun.github.io/issues/96
+  methods:
+    - name: 支付宝
+      path: /images/3333.jpg
+      color: "#00A3EE"
+      icon: icon-alipay-line
+    #- name: QQ 支付
+    #  path: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/donate/qqpay-qrcode.png
+    #  color: "#12B7F5"
+    #  icon: icon-qq-line
+    - name: 微信支付
+      path: /images/2222.jpg
+      color: "#2DC100"
+      icon: icon-wechat-pay-line
+    # - name: paypal
+    #   link: https://paypal.com
+    #   path: https://www.paypalobjects.com/images/shared/paypal-logo-129x32.svg
+    #   color: "#2D70B5"
+    #   icon: icon-paypal-line
