@@ -25,7 +25,7 @@ social:
   #   color: "#525252"
   - name: 微信公众号
     #link: /images/546.png
-    link: /images/n1.png
+    link: /images/546.png
     icon: icon-wechat-2-line
     color: "#1AAD19"
   # - name: Telegram
